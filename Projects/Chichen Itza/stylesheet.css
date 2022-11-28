@@ -1,0 +1,28 @@
+header {
+    border: 3px solid rgb(82, 82, 82);
+}
+
+.center {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: normal;
+}
+
+p {
+    font-size: large;
+}
+
+img {
+    border: 3px solid rgb(0, 255, 47);
+    height: 200;
+}
+
+rightAlign {
+    margin: auto;
+    text-align: right;
+}
